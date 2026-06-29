@@ -31,4 +31,4 @@ An expressive text-to-speech audio rendering application using the Bark generati
 ---
 
 ## License
-This project is proprietary and confidential. Property of Humanity Co.
+This project is proprietary and confidential. 
