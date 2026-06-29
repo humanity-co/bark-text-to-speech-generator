@@ -1,0 +1,7 @@
+torch
+torchaudio
+encodec
+pandas
+numpy
+transformers
+tqdm

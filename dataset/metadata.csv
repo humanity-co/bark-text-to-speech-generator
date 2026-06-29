@@ -1,0 +1,3 @@
+audio_path,transcript,emotion,speaker
+data/sample1.wav,"Hello there! [laugh]",1,0
+data/sample2.wav,"It is a beautiful day.",0,1
